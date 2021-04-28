@@ -8,8 +8,8 @@
                   <body>
                       <section id="main">
                             <nav>
-                                    <a href="#" class="logo">
-                                              <img src="190919-REBEL-UA-ProjectRock-BTB-Logo-BW.png" alt="The Logo of Project Rock">
+                                    <a href="https://1.bp.blogspot.com/-Hwn7bUCN764/YIfQGEQgfJI/AAAAAAAABjs/W-qGpRMdcDUVIQm_uTMS7zrUKZtNBYirQCLcBGAsYHQ/s320/nasa-mars-4.webp" class="logo">
+                                              <img src="https://1.bp.blogspot.com/-Hwn7bUCN764/YIfQGEQgfJI/AAAAAAAABjs/W-qGpRMdcDUVIQm_uTMS7zrUKZtNBYirQCLcBGAsYHQ/s320/nasa-mars-4.webp" alt="The Logo of Project Rock">
                                                       </a>
         <span class="menu-space"></span>
         <ul class="menu">
@@ -24,12 +24,12 @@
                                                                                     </section>
     <section class="Content">
           <div class="image">
-                  <img src="Untitled design-4.png" alt="Rock">
+                  <img src="https://1.bp.blogspot.com/-Hwn7bUCN764/YIfQGEQgfJI/AAAAAAAABjs/W-qGpRMdcDUVIQm_uTMS7zrUKZtNBYirQCLcBGAsYHQ/s320/nasa-mars-4.webp" alt="Rock">
                         </div>
                               <div class="main-text">
                                       <h1>Hello, I am the <br>  Rock</h1>
                                               <p>Hey in this video i will be showing you guys how to build a website using only HTML and CSS</p>
-                                                      <a href="#" class="resume-btn">See My Resume</a>
+                                                      <a href="https://1.bp.blogspot.com/-Hwn7bUCN764/YIfQGEQgfJI/AAAAAAAABjs/W-qGpRMdcDUVIQm_uTMS7zrUKZtNBYirQCLcBGAsYHQ/s320/nasa-mars-4.webp" class="resume-btn">See My Resume</a>
                                                             </div>
                                                                 </section>
   </body>
